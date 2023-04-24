@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaranRaul
-- 👀 I’m interested in  Android development
-- 🌱 I’m currently learning Android studio JAVA
+- 👀 I’m interested in  Android Development && Web Development
+- 🌱 I’m currently learning Android studio JAVA && WEB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me karanraul02@gmail.com
 
